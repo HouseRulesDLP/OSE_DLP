@@ -14,6 +14,8 @@ With permission from [@OldManUmby](https://github.com/OldManUmby/OSE.SRD.Wiki), 
 - Alternate Saving Throw Names
 - A skill and ability check system inspired by [Hyperborea 3rd Edition](https://www.hyperborea.tv/).
 - An Advantage/Disadvantage system similar to those founds in many other d20 games.
+- Traits (similar to Feats in other systems).
+- Fortune Points (a meta-currency representing the role of fate in your character's life).
 
 ## Citations
 In may places, there are references to official rules documents and some third-party books.  Here is a list of abbreviations used for those references:
